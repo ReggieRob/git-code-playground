@@ -1,12 +1,7 @@
-/* Don't change the existing CSS. */
-
-.box {
-  background-color: blue;
-  padding: 10px;
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
 }
 
-p {
-  color: yellow;
-  margin: 0;
-  padding: 0;
-}
+/* Write your CSS below, don't change the rules above. */
